@@ -1,0 +1,19 @@
+.my-photo{
+    border: 1px solid rgb(241, 238, 238);
+    border-radius: 16px;
+    display: block;
+    background-color: white;
+    max-width: 50%;
+}
+.about-section{
+    padding: 160px 20px;
+    text-align: center;
+    
+}
+.about-section h1{
+    font-size: 64px;
+    line-height: 1.2;
+}
+.about-section h2{
+    font-size: 36px;
+}
